@@ -1,0 +1,19 @@
+Meta Git: a Journey
+
+1) Hi. I'm a text document. I suppose the common thing to do at this point is to say "Hello World."
+Reading me is easy, but understanding me may take a little getting used to. This is because I exist or will exist in multiple places and times.
+But let's take it one step, slowly.
+As of this very moment, I have not even been saved. That is about to change... now.
+So now I exist in a folder on my author's hard drive. This now is real.
+At the same time (think about that), my now is your past, and your now is my future.
+Furthermore, as I develop, I expect to take different paths and have alternate futures. I hope to become many authors, yet remain singularly myself.
+
+My current author is attempting to learn Git, which is why I exist. My author and I will create each other and share a journey through what Borges called "A Garden of Forking Paths."
+
+Now it's time to save again. Now we are also going to initialize the project in Git. We're not going to worry about the exact details of how this is done just yet, though that my get added in later. Whether by CLI or by GUI, right now we are just trying to clarify the process and the step on the paths.
+
+There. Git init seems to have worked, and git status helps check the progress. Now, even though I'm in the same directory, I have to be added explicitly. This is now done. To start off right, we also need to create a ReadMe file, and a .gitignore file.
+
+Ok. These have now been done, although my author cheated a little on the .gitignore file. See for yourself.
+
+So now our bags are packed, and we've made a list of things we aren't bringing along. Let's commit to the journey. I think I'm committed!
