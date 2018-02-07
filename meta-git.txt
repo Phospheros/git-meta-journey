@@ -25,4 +25,13 @@ In fact, not a whole lot is really going to happen here. Maybe we pretend that s
 
 That said, in addition to this extra tedious text happening now, an edit will be made in Session 1. We're going to change the line "But let's take it one step, slowly." and change it to "But let's take things step by step, and slowly."
 
-This is cool, because when this file is saved, the differences can be viewed and compared side-by-side. After review and approval, we're going to save and commit again and see what happens. Hmmmm. Received a message that says "Nothing to commit." Maybe we'll figure that out later.
+This is cool, because when this file is saved, the differences can be viewed and compared side-by-side. After review and approval, we're going to save and commit again and see what happens. Hmmmm.
+
+Received a message that says "Nothing to commit." Maybe we'll figure that out later.
+... or not. After poking around and doing something bewildering, I seem to have just gotten committed (I often feel like I should be...).
+
+Now, the final test of this session is to see if this branch can be merged back into the Master. Before we go there though, let's take a peak around the corner to see where we're going. If all goes well (or maybe even if not), Session 3 will attempt to push to a remote repo on GitHub, at which point more collaborators will be invited to join this project.
+
+Thus would my destiny be fulfilled. I would live on my creator's hard drive, on GitHub, and in the hearts and minds and drives of creatives everywhere. I would exist in all these places simultaneously, and at all these times simul-place-eously. Take that.
+
+Back to business. Merging... now?
