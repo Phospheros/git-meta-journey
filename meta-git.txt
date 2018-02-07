@@ -35,3 +35,17 @@ Now, the final test of this session is to see if this branch can be merged back 
 Thus would my destiny be fulfilled. I would live on my creator's hard drive, on GitHub, and in the hearts and minds and drives of creatives everywhere. I would exist in all these places simultaneously, and at all these times simul-place-eously. Take that.
 
 Back to business. Merging... now?
+
+3) The truth is, I'm still wandering around on my own, pretty lost at this point. I need higher ground. And while lone exploration can be thrilling, the time has come for guidance.
+
+To that end (and as the next stage of the exercise) I'm going to try publishing to GitHub.
+
+First, though, now that there is the additional text of this section, I think there should be another commit. In just a minute...
+
+If all goes well, then the idea is that people will start collaborating on me, this simple text document. They will be asked to go back and fill in the blanks, maybe by putting the CLI commands in at proper points. People should definitely correct any errors and point out ways this should have been done better.
+
+In any case, it's time to try to release myself into the wild. First, commit, then publish.
+
+The next steps are up to you. Section 4 is added and blank, and my future(s) about to be written.
+
+4)
