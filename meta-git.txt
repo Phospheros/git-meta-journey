@@ -2,7 +2,7 @@ Meta Git: a Journey
 
 1) Hi. I'm a text document. I suppose the common thing to do at this point is to say "Hello World."
 Reading me is easy, but understanding me may take a little getting used to. This is because I exist or will exist in multiple places and times.
-But let's take it one step, slowly.
+But let's take things step by step, and slowly.
 As of this very moment, I have not even been saved. That is about to change... now.
 So now I exist in a folder on my author's hard drive. This now is real.
 At the same time (think about that), my now is your past, and your now is my future.
@@ -17,3 +17,12 @@ There. Git init seems to have worked, and git status helps check the progress. N
 Ok. These have now been done, although my author cheated a little on the .gitignore file. See for yourself.
 
 So now our bags are packed, and we've made a list of things we aren't bringing along. Let's commit to the journey. I think I'm committed!
+
+
+2) Now it's a new day, and a new session. Before this line got written though, a branch was created off of the main branch. This new branch is called "Branching-Out" and it's just a test branch to see how development goes in this flow.
+
+In fact, not a whole lot is really going to happen here. Maybe we pretend that something major is happening that's adding a lot to our progress, or maybe we just want to correct a typo. Either way, we're doing it in a way that doesn't really truly disturb history.
+
+That said, in addition to this extra tedious text happening now, an edit will be made in Session 1. We're going to change the line "But let's take it one step, slowly." and change it to "But let's take things step by step, and slowly."
+
+This is cool, because when this file is saved, the differences can be viewed and compared side-by-side. After review and approval, we're going to save and commit again and see what happens. Hmmmm. Received a message that says "Nothing to commit." Maybe we'll figure that out later.
